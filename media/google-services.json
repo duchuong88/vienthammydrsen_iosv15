@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "229718213355",
+    "firebase_url": "https://vien-tham-my-drsen-default-rtdb.firebaseio.com",
+    "project_id": "vien-tham-my-drsen",
+    "storage_bucket": "vien-tham-my-drsen.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229718213355:android:136cd79699da8ab29a34ae",
+        "android_client_info": {
+          "package_name": "vienthammydrsen.ezspa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1bBMjJ2C1tDuNSC4IUEVwpoHHB7vaviI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

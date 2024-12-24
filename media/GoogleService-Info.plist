@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDKHzyf6eT9Z8uhClrZQ-0_xOaWjP32kn0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>229718213355</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>vienthammydrsen.ezspa</string>
+	<key>PROJECT_ID</key>
+	<string>vien-tham-my-drsen</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vien-tham-my-drsen.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:229718213355:ios:e94e2eb794d076d99a34ae</string>
+	<key>DATABASE_URL</key>
+	<string>https://vien-tham-my-drsen-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
